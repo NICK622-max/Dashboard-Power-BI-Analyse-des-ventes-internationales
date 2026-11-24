@@ -1,4 +1,4 @@
-# 📊 Dashboard d'Analyse des Ventes - Power BI
+# 📊 Dashboard Power BI - Analyse des ventes internationales
 
 ## 📌 Présentation du Projet
 Ce projet consiste en un tableau de bord interactif conçu sous **Power BI** permettant d'analyser les performances commerciales et les ventes d'une entreprise. L'objectif est de transformer des données brutes en indicateurs clés de performance (KPI) visuels et exploitables pour faciliter la prise de décision stratégique.
